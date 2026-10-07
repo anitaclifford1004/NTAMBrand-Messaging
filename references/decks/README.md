@@ -9,3 +9,6 @@ Reference decks used as structural and visual templates for NTAM brand messaging
 product recommendations). Used as a reference for slide structure, section framing, and
 layout patterns (numbered section navigators, insight-led headlines, stat callouts,
 before/after case comparisons) when building the analogous NTAM deck.
+
+See also `references/web/` for website references (e.g. the Bidnam "Work" page),
+used for visual tone and index/detail layout patterns.
